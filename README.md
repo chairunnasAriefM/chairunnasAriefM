@@ -1,16 +1,29 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Chairunnas Arief Maulana</h1>
+<h3 align="center">A student with a strong passion for technology.</h3>
 
-<!--
-**chairunnasAriefM/chairunnasAriefM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=chairunnasariefm&show_icons=true&theme=radical" alt="chairunnasariefm" />
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=chairunnasariefm&show_icons=true&locale=en&layout=compact&theme=radical" alt="chairunnasariefm" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3 align="left">🚀 Languages and Tools:</h3>
+<p align="left"> 
+  <a href="https://codeigniter.com" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/codeigniter.svg" alt="codeigniter" width="40" height="40"/> </a> 
+  <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
+  <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://download.logo.wine/logo/Laravel/Laravel-Logo.wine.png" alt="laravel" width="40" height="40"/> </a> 
+  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
+  <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> 
+  <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> 
+  <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> 
+</p>
+
+<h3 align="left">🎓 Education:</h3>
+<p align="left">
+  Currently pursuing a degree in Informatics Engineering at Politeknik Caltex Riau, expected graduation in 2026.
+</p>
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=chairunnasariefm&show_icons=true&locale=en&layout=compact" alt="chairunnasariefm" /></p>
