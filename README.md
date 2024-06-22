@@ -1,13 +1,7 @@
 <h1 align="center">Hi 👋, I'm Chairunnas Arief Maulana</h1>
 <h3 align="center">A student with a strong passion for technology.</h3>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=chairunnasariefm&show_icons=true&theme=radical" alt="chairunnasariefm" />
-</p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=chairunnasariefm&show_icons=true&locale=en&layout=compact&theme=radical" alt="chairunnasariefm" />
-</p>
 
 <h3 align="left">🚀 Languages and Tools:</h3>
 <p align="left"> 
@@ -26,4 +20,3 @@
   Currently pursuing a degree in Informatics Engineering at Politeknik Caltex Riau, expected graduation in 2026.
 </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=chairunnasariefm&show_icons=true&locale=en&layout=compact" alt="chairunnasariefm" /></p>
