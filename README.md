@@ -17,6 +17,6 @@
 
 <h3 align="left">🎓 Education:</h3>
 <p align="left">
-  Currently pursuing a degree in Informatics Engineering at Politeknik Caltex Riau, expected graduation in 2026.
+  Currently pursuing a degree in Informatics Engineering at Politeknik Caltex Riau, expected graduation in 2027.
 </p>
 
